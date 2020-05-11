@@ -1,0 +1,15 @@
+body{
+    background-image: url(image.jpg);
+}
+h2{
+    border: 2px solid black;
+    left:580px;
+     position: absolute; 
+    bottom: 400px;
+
+}
+h3{
+    position: absolute;
+    bottom: 30px;
+    left: 650px;
+}
